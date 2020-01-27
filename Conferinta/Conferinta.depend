@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1580052959 source:d:\it\proiecte\conferinta\src\francez.cpp
+	"Francez.h"
+
+1580052592 d:\it\proiecte\conferinta\include\francez.h
+	<Participant.h>
+
+1580151697 d:\it\proiecte\conferinta\include\participant.h
+
+1580052959 source:d:\it\proiecte\conferinta\src\german.cpp
+	"German.h"
+
+1580052592 d:\it\proiecte\conferinta\include\german.h
+	<Participant.h>
+
+1580052959 source:d:\it\proiecte\conferinta\src\participant.cpp
+	"Participant.h"
+
+1580052959 source:d:\it\proiecte\conferinta\src\roman.cpp
+	"Roman.h"
+
+1580052592 d:\it\proiecte\conferinta\include\roman.h
+	<Participant.h>
+
+1580152866 source:d:\it\proiecte\conferinta\main.cpp
+	<iostream>
+	<stdlib.h>
+	"German.h"
+	"Francez.h"
+	"Roman.h"
+	<string>
+	<vector>
+

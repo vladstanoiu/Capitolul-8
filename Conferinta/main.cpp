@@ -3,7 +3,6 @@
 #include "German.h"
 #include "Francez.h"
 #include "Roman.h"
-#include <string>
 #include <vector>
 
 using namespace std;

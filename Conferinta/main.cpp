@@ -50,6 +50,8 @@ int main()
         {
             Participant *participant = CreazaParticipant();
            pntParticipanti.push_back(participant);
+           delete participant;
+           participant = nullptr;
 
         }
         else if (user == 2)
